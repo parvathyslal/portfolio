@@ -20,13 +20,13 @@ My current interests include:
 
 ## 🚀 Features
 
-* ✨ Clean and premium UI design
-* 📱 Fully responsive layout
-* 🧭 Smooth navigation across sections
-* 📊 Project showcase with images, descriptions, and links
-* 📄 Research section with publications and ongoing work
-* 🔗 External links (GitHub, Codeforces, LinkedIn)
-* 📁 Integrated research papers (PDF access)
+*  Clean and premium UI design
+*  Fully responsive layout
+*  Smooth navigation across sections
+*  Project showcase with images, descriptions, and links
+*  Research section with publications and ongoing work
+*  External links (GitHub, Codeforces, LinkedIn)
+*  Integrated research papers (PDF access)
 
 ---
 
