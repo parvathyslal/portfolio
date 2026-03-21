@@ -1,90 +1,50 @@
-# portfolio
-# 🌐 Parvathy S Lal – Portfolio Website
+# Portfolio Website
 
-A modern, responsive portfolio website built using HTML and CSS to showcase my projects, research work, and technical interests.
+This is a personal portfolio website created using HTML and CSS. It showcases my projects, research work, and basic information.
 
----
+## Website Structure
 
-## 👩‍💻 About Me
+The website consists of the following pages:
 
-I am a first-year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.
-I am passionate about problem solving, competitive programming, and building intelligent systems in AI and Machine Learning.
+* **Home (index.html)**
+  Contains an introduction, navigation bar, and quick links.
 
-My current interests include:
+* **About (about.html)**
+  Includes personal and academic details.
 
-* Natural Language Processing (NLP)
-* Lightweight & efficient AI models
-* Real-time intelligent systems
+* **Projects Section**
+  Displays my work such as Codeforces practice, portfolio website, and research work. Each project includes an image, description, and link.
 
----
+* **Publications Section**
+  Lists my research papers with brief descriptions and links to view them.
 
-## 🚀 Features
+* **Research Section**
+  Describes my research interests and ongoing work.
 
-*  Clean and premium UI design
-*  Fully responsive layout
-*  Smooth navigation across sections
-*  Project showcase with images, descriptions, and links
-*  Research section with publications and ongoing work
-*  External links (GitHub, Codeforces, LinkedIn)
-*  Integrated research papers (PDF access)
+* **Contact Section**
+  Provides links to GitHub, Codeforces, LinkedIn, and email.
 
----
+## Files Used
 
-## 🧩 Sections
+* `index.html` – Main webpage
+* `about.html` – About page
+* `research.html` – Reasearch interest webpage
+* `style.css` – Styling for the website
+* `paper1.pdf`, `paper2.pdf` – Research papers
+* Images – Used in project cards
 
-* **Home** – Introduction
-* **Skills** – Technical skills
-* **Projects** – Practice and development work
-* **Publications** – Research papers
-* **Research** – Interests and ongoing work
-* **About** – Personal details
-* **Contact** – Quick links
+## Features
 
----
+* Responsive design using CSS
+* Navigation between multiple sections/pages
+* Project showcase with images and links
+* Integration of external links and PDFs
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
----
-
-## 📁 Project Structure
-
-```
-portfolio/
-│── index.html
-│── about.html
-│── research.html
-│── style.css
-│── paper1.pdf
-│── paper2.pdf
-│── portfolio.png
-│── codeforces.png
-│── research.png
-```
-
----
-
-## 🔗 Live Website
-
-👉 https://parvathyslal.github.io/portfolio/
-
----
-
-## 📬 Connect With Me
-
-* GitHub: https://github.com/parvathyslal
-* Codeforces: https://codeforces.com/profile/YOUR_USERNAME
-* LinkedIn: https://www.linkedin.com/in/parvathy-s-lal-276150366/
-
----
-
-## 📌 Note
-
-This portfolio was developed as part of the UID lab assignment and further enhanced with a clean and professional design approach.
-
----
 
 ⭐ Thank you for visiting!
 
