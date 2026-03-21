@@ -75,7 +75,7 @@ portfolio/
 
 * GitHub: https://github.com/parvathyslal
 * Codeforces: https://codeforces.com/profile/YOUR_USERNAME
-* LinkedIn: YOUR_LINKEDIN_LINK
+* LinkedIn: https://www.linkedin.com/in/parvathy-s-lal-276150366/
 
 ---
 
