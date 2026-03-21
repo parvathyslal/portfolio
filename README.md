@@ -45,3 +45,4 @@ The website consists of the following pages:
 * HTML
 * CSS
 
+Thank you.
