@@ -35,9 +35,11 @@ The website consists of the following pages:
 * `style.css` – Styling for the website
 
 * `papers/`
+  
   └── `paper1.pdf`, `paper2.pdf` – Research papers
 
 * `images/`
+  
   └── `portfolio.png`, `research.png`, `codeforces.png` – Used in project cards
 
 
