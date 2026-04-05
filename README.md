@@ -27,11 +27,19 @@ The website consists of the following pages:
 ## Files Used
 
 * `index.html` – Main webpage
+
 * `about.html` – About page
-* `research.html` – Reasearch interest webpage
+
+* `research.html` – Research interest webpage
+
 * `style.css` – Styling for the website
-* `paper1.pdf`, `paper2.pdf` – Research papers
-* Images – Used in project cards
+
+* `papers/`
+  └── `paper1.pdf`, `paper2.pdf` – Research papers
+
+* `images/`
+  └── `portfolio.png`, `research.png`, `codeforces.png` – Used in project cards
+
 
 ## Features
 
@@ -44,5 +52,8 @@ The website consists of the following pages:
 
 * HTML
 * CSS
+
+## Live Website
+* https://parvathyslal.github.io/portfolio/
 
 Thank you.
